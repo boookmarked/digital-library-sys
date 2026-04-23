@@ -1,5 +1,5 @@
-# digital-library-sys
-Digital Library Management System
+# Digital-library-system
+Digital Library Management System,
 A Python-based project to manage books, users, and transactions using CSV files.
 
 Features:
